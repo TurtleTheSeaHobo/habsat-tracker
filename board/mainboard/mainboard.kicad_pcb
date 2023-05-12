@@ -863,7 +863,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 59FED5CB) (tstamp 838720ac-b84f-4ac8-a49b-21a9fd2a8193)
-    (at 152.639 46.425 -90)
+    (at 32.751 17.702 -90)
     (descr "Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row")
     (tags "Through hole angled pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "mainboard.kicad_sch")
@@ -1858,7 +1858,7 @@
 
   (footprint "Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering" (layer "B.Cu")
     (tedit 5A0FA816) (tstamp 3899ccfa-a02e-43c1-bbd6-966721e7a780)
-    (at 93.98 86.614 -90)
+    (at 43.18 37.846 -90)
     (descr "LGA-8")
     (tags "lga land grid array")
     (property "Sheetfile" "mainboard.kicad_sch")

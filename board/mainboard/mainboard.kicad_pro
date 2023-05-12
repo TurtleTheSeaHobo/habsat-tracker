@@ -389,7 +389,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "../../../../Downloads/mainboard.wrl"
+      "vrml": "mainboard.wrl"
     },
     "page_layout_descr_file": ""
   },
