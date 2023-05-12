@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "1575AT54")(type "KiCad")(uri "/home/james/Projects/habsat-tracker/component/1575AT54.pretty")(options "")(descr ""))
+  (lib (name "Dipole")(type "KiCad")(uri "/home/james/Projects/habsat-tracker/component/Dipole.pretty")(options "")(descr ""))
+  (lib (name "SAJ13")(type "KiCad")(uri "/home/james/Projects/habsat-tracker/component/SAJ13.pretty")(options "")(descr ""))
+)
